@@ -1,0 +1,66 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5e9d8;
+}
+
+.red {
+    background-color: red;
+    height: 100px;
+}
+
+.clay {
+    background-color: rgb(250, 251, 204);
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+.text {
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+.aqua {
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 10px;
+}
+
+.inner {
+    background-color: cadetblue;
+    height: 300px;
+    position: relative;
+}
+
+.blue {
+    background-color: blue;
+    width: 300px;
+    height: 100%;
+    float: left;
+}
+
+.grey {
+    height: 100%;
+    margin-left: 300px;
+    position: relative;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.green {
+    background-color: yellowgreen;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
